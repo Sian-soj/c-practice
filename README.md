@@ -1,1 +1,5 @@
-# c-practice
+- helloworld.c — basic I/O in C
+- playing-with-characters.c — char/string input handling
+- sum-and-difference.c - adding and subtracting values
+- function.c — functions
+- pointers.c — pointers, pass-by-reference
