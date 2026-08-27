@@ -3,3 +3,4 @@
 - sum-and-difference.c - adding and subtracting values
 - function.c — functions
 - pointers.c — pointers, pass-by-reference
+- conditons.c - if, if-else, if-else if-else
